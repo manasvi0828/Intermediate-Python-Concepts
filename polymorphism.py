@@ -1,6 +1,6 @@
 class Animals:
     def speaks(self):
-        pass
+        print("generic statement")
 
 
 class Dog(Animals):
